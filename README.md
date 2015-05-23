@@ -6,3 +6,6 @@
 
 #from command
 プッシュのテストを行います。
+
+#from github
+プルのテストを行います。
