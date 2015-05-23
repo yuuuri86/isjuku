@@ -10,5 +10,5 @@
 #from github
 プルのテストを行います。
 
-#競合のテスト
-します。
+# from Monaco @osoralavip
+うりじゃんじゃんじゃん白洲
