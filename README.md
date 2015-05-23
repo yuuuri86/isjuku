@@ -3,3 +3,6 @@
 
 # from github
 ぷるのテストを行います。
+
+#from command
+プッシュのテストを行います。
